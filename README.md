@@ -6,7 +6,7 @@ This project is about a interactive interface for learning about the solar syste
 **Project Overview**
 
 This project aims to create an engaging and educational 3D visualization of the solar system, showcasing the planets, their moons, and near-Earth objects (NEOs). Utilizing Three.js for rendering and NASA's API for real-time data, the application serves as both an interactive experience and a powerful tool for understanding our celestial neighborhood.
-
+<br/>
 
 **Key Features**
 
@@ -17,7 +17,7 @@ This project aims to create an engaging and educational 3D visualization of the 
 *NEO Visualization* - Integration with NASA's NEO API to display real-time information about near-Earth objects, including their trajectories and sizes.
 
 *Educational Resource* - Provides valuable information about planetary positions, sizes, and distances, making it an excellent tool for educational purposes in schools and for space enthusiasts.
-
+<br/>
 
 **Technical Stack**
 
@@ -26,7 +26,7 @@ This project aims to create an engaging and educational 3D visualization of the 
 *NASA API* - For accessing data on near-Earth objects and providing dynamic content updates.
 
 *HTML/CSS/JavaScript* - Core web technologies used to build the application interface.
-
+<br/>
 
 **Purpose and Impact**
 
